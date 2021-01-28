@@ -22,11 +22,9 @@ So that I can organize and plan my business
 
   * Update employee roles
   
-  ## Screenshots
+  ## Video
 
-![image](https://user-images.githubusercontent.com/69064703/106092665-c2228780-60fc-11eb-8891-b974d3985fd5.png
-![image](https://user-images.githubusercontent.com/69064703/106092630-af0fb780-60fc-11eb-8381-7054678b6535.png)
-
+ [Watch the video](https://drive.google.com/file/d/1vw06y-tcXGHR9f-RJaCoAUQBWEYTVJvH/view?usp=sharing)
 
   ## Repo URL
 
